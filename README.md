@@ -33,10 +33,6 @@ Insights from these metrics enable HR to identify areas for improvement and deve
 - Average Age
 - Average years @ company
 
-### Dataset 📀
-
-https://www.kaggle.com/datasets/vinaykumar11061/greendestination
-
 ## Technology  
 Business Intelligence
 
